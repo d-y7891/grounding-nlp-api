@@ -25,3 +25,6 @@ A high-fidelity system that translates natural language commands (e.g., "Email P
 1. **Install dependencies:** `pip install -r requirements.txt`
 2. **Train the model:** Run `python train.py` (requires CUDA).
 3. **Launch the App:** `streamlit run app.py`
+## Demo Video
+
+[Watch Demo](./Untitled.mp4)
